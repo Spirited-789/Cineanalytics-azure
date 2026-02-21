@@ -1,0 +1,53 @@
+composer,id,movie imdb,movie title,spotify,title
+John Williams,1,tt0076759,Star Wars,3ZSf1TJZyRb0rnWYuUtdX4,Main Title
+John Williams,2,tt0076759,Star Wars,5ZSAdkQb23NPIcUGt6exdm,Cantina Band
+John Williams,3,tt0073195,Jaws,55xly70WJY1cx5qsoogaqs,Main Title
+Howard Shore,4,tt0120737,The Lord of the Rings: The Fellowship of the Ring,644es5aYPJghtZLjM1rmSP,Concerning Hobbits
+Howard Shore,5,tt0120737,The Lord of the Rings: The Fellowship of the Ring,6HYCOHzY2xR4W2dOokH3ed,The Bridge of Khazad Dum
+Klaus Badelt,6,tt0325980,Pirates of the Caribbean: The Curse of the Black Pearl,08QaHlMPWuO5PUxjl61bXn,He's a pirate
+Hans Zimmer,7,tt1375666,Inception,7ifWgqspqvPpQWXCfyrho4,Dream Within a Dream
+John Williams,8,tt0241527,Harry Potter and the Sorcerer's Stone,1n8NKQRg8LVHy7oUhUgbFF,Hedwig's Theme
+John Williams,9,tt0107290,Jurassic Park,2TZbQZXOuR8osP2AK8yYMN,Theme From Jurassic Park
+James Horner,10,tt0120338,Titanic,42lyCSXzWizBfGmqE1Silk,My Heart Will Go On
+Justin Hurwitz,11,tt3783958,La La Land,5kRBzRZmZTXVg8okC7SJFZ,Another Day of Sun
+Hans Zimmer,12,tt0172495,Gladiator,1bXD4xwHD4GPePN5Utp7Ch,Elysium
+Robert Fitzgerald Diggs,13,tt0266697,Kill Bill: Vol. 1,6S9lcjREUTU4Yv5y7oMcv2,Woo Hoo
+Chuck Berry,14,tt0110912,Pulp Fiction,5zBcCuhVgll3iM4aJcaujN,You Never Can Tell
+"Benny Andersson, Björn Ulvaeus",15,tt0795421,Mamma Mia!,4nI8e3fy1hHvhCvJURv5JI,Mamma Mia
+"Ray Parker, Jr.",16,tt0087332,Ghostbusters,3m0y8qLoznUYi73SUBP8GI,Ghostbusters
+Alan Silvestri,17,tt0088763,Back to the Future,3EqSxfk7OXM4NDjRPI56ZF,Back To The Future
+Howard Shore,18,tt0903624,The Hobbit: An Unexpected Journey,1yJzoX4xPsACzVxUarXRKa,Misty Mountains
+Dolly Parton,19,tt0103855,The Bodyguard,4eHbdreAnSOrDDsFfc4Fpm,I Will Always Love You
+Keith Forsey,20,tt0088847,The Breakfast Club,6yEAAIEHu4GcUFptg5W9kI,Don't You (Forget About Me)
+Kenny Loggins,21,tt0087277,Footloose,4lUquPSQVHZv1eKuswOLsG,Footloose
+"Jim Jacobs, Warren Casey",22,tt0077631,Grease ,2AVkArcfALVk2X8sfPRzya,Summer Nights
+Barry Gibb,23,tt0077631,Grease ,6X1D6qbVmK48uoOD9nIvVV,Grease
+John Farrar,24,tt0077631,Grease ,0B9x2BRHqj3Qer7biM3pU3,You're The One That I Want
+"Jim Jacobs, Warren Casey",25,tt0077631,Grease ,1XNE0QfNjdroSdosMIk8F6,Greased Lightnin'
+Jason Adams,26,tt0356150,EuroTrip,6WA2WJmHT5jCJfx88H0pbJ,Scotty Doesn't Know
+Elton John,27,tt6105098,The Lion King,0GrhBz0am9KFJ20MN9o6Lp,Circle of Life
+Elton John,28,tt6105098,The Lion King,0Hgbo6JhLS3SN483HccpHx,I Just Can't Wait to Be King
+Elton John,29,tt6105098,The Lion King,2ooEcchimUkkY52WVl1ON4,Hakuna Matata
+"Matthew Wilder, David Zippel",30,tt0120762,Mulan,58kNJana4w5BIjlZE2wq5m,I'll Make a Man Out of You
+"Robert Lopez, Kristen Anderson-Lopez",31,tt2294629,Frozen,600HVBpzF1WfBdaRwbEvLz,Let It Go
+"Robert Lopez, Kristen Anderson-Lopez",32,tt2294629,Frozen,7Ctju5iILqGbvMKG6CgTl9,Do You Want to Build a Snowman
+"Robert Lopez, Kristen Anderson-Lopez",33,tt2294629,Frozen,6PlHaDiKonFXoKz1Lbdn53,Love Is an Open Door
+Alan Silvestri,34,tt0848228,The Avengers,5SXsXjVJCWeJuf7FHvgBYR,The Avengers
+Monty Norman,35,tt0055928,James Bond: Dr. No,0bwsyQC5yRJB3IUK2cGQ6b,James Bond Theme
+Henry Mancini,36,tt0383216,The Pink Panther,1QPRmX2e3EZWskuOe5QqxM,Pink Panther Theme
+Alan Menken,37,tt0097757,The Little Mermaid,6WXF2wCb3yeTuoGFyP7U5C,Under the Sea
+Alan Menken,38,tt0103639,Aladdin,1S9Rw3ETeDYzDdrRWXKhn3,A Whole New World
+Alan Menken,39,tt0119282,Hercules,4zDfgax6Ihb0UWdour1ZEs,Zero to Hero
+Alan Menken,40,tt0119282,Hercules,0D1OY0M5A0qD5HGBvFmFid,Go the Distance
+Randy Newman,41,tt0114709,Toy Story,2stkLJ0JNcXkIRDNF3ld6c,You've Got a Friend in Me
+Lin-Manuel Miranda,42,tt3521164,Moana,1gAqEg0gMyxJrM4DOOaYEA,You're Welcome
+Lin-Manuel Miranda,43,tt3521164,Moana,0KBgLJ9hRd40jq1DeuYmNM,Where You Are
+Lin-Manuel Miranda,44,tt3521164,Moana,3KzemxaWSSiYtnzOokd0Rs,How Far I'll Go
+Lin-Manuel Miranda,45,tt3521164,Moana,7qXlsUBBEQaFhHrvMYBcuC,Shiny
+John Williams,46,tt0082971,Raiders of the Lost Ark,1YYKKW40noxJ8BNBODnriF,Raiders March
+John Williams,47,tt0078346,Superman,5My95PvNVMMSkgcxv75lvE,Main Title
+John Williams,48,tt0083866,E.T. the Extra-Terrestrial,4J9mulgiRlkkgdAONNVGQv,Flying Theme
+John Williams,49,tt0108052,Schindler's List,0oyL4K4fDTEFUbD9AHSvDc,Main Theme
+Alan Silvestri,50,tt0109830,Forrest Gump,1ijrMIqQvZNsnoqGukPzFD,I'm Forrest... Forrest Gump
+Terry Gilkyson,51,tt0061852,The Jungle Book,7EA9SlGReyET1cYHIeFbIH,The Bare Necessities
+John Williams,52,tt0080684,Star Wars: Episode V - Empire Strikes Back,2bw4WgXyXP90hIex7ur58y,The Imperial March
