@@ -1,4 +1,4 @@
-<img width="2202" height="676" alt="diagram-export-3-1-2026-7_24_53-PM" src="https://github.com/user-attachments/assets/5d3e4892-0805-40e6-87f2-9a45a96d328e" /># 🎬 CineAnalytics: Event-Driven Azure Data Lakehouse & BI Platform
+# 🎬 CineAnalytics: Event-Driven Azure Data Lakehouse & BI Platform
 
 ## 📌 Project Overview & Business Value
 In the modern entertainment industry, data is heavily siloed. Financial data, user demographics, and complex movie metadata (cast, crew, genres) often live in fragmented systems. **CineAnalytics** solves this by acting as a fully automated, zero-touch ETL pipeline and single source of truth. 
