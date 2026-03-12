@@ -1,6 +1,6 @@
-# 🎬 CineAnalytics: Event-Driven Azure Data Lakehouse & BI Platform
+# CineAnalytics: Event-Driven Azure Data Lakehouse & BI Platform
 
-## 📌 Project Overview & Business Value
+##  Project Overview & Business Value
 In the modern entertainment industry, data is heavily siloed. Financial data, user demographics, and complex movie metadata (cast, crew, genres) often live in fragmented systems. **CineAnalytics** solves this by acting as a fully automated, zero-touch ETL pipeline and single source of truth. 
 
 This project ingests disparate, messy data sources (MovieLens & TMDB datasets) and transforms them into a highly optimized **Star Schema**. 
@@ -12,7 +12,7 @@ This project ingests disparate, messy data sources (MovieLens & TMDB datasets) a
 
 ---
 
-## 🏗️ Architecture & Tech Stack
+## Architecture & Tech Stack
 
 <img width="2202" height="676" alt="diagram-export-3-1-2026-7_24_53-PM" src="https://github.com/user-attachments/assets/1ffa8b67-12c9-497e-bec3-24019af69d35" />
 
@@ -59,7 +59,7 @@ The Databricks PySpark pipeline progressively cleans and enriches the data throu
 
 ---
 
-## 🛡️ Why Delta Lake over Standard Parquet?
+## Why Delta Lake over Standard Parquet?
 To ensure enterprise-grade reliability, all tables are stored as Delta formats rather than standard Parquet, guaranteeing:
 * **Atomicity & Consistency:** `MERGE INTO` operations either fully succeed or fail. No corrupted, half-written data.
 * **Snapshot Isolation:** Concurrent reads and writes are perfectly handled via the `_delta_log`. The Tableau dashboards can query the Gold tables at the exact millisecond the pipeline is writing new data without crashing.
@@ -67,10 +67,13 @@ To ensure enterprise-grade reliability, all tables are stored as Delta formats r
 
 ---
 
-## 📊 Analytics & Visualization (Tableau)
+## Analytics & Visualization (Tableau)
 The data engineering pipeline feeds directly into **Tableau**, powering 20 advanced visualizations across 4 interactive dashboards:
 
 1. **Executive Financial Summary:** KPIs tracking Worldwide Gross vs. Production Budgets and top-performing studios/genres.
 2. **Audience Demographics:** Heatmaps and bar charts breaking down user ratings by age, gender, and geographic regions.
 3. **Content & Genre Trends:** Visualizing the popularity of specific musical themes and genres over decades.
 4. **Director & Cast ROI:** Analyzing the Return on Investment of specific directors and top-billed actors to identify consistent box-office drivers.
+
+## Tableau Public Link 
+https://public.tableau.com/views/ACT1THEAUDIENCETASTE/Dashboard4TalentAnalytics?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
